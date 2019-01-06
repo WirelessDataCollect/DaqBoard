@@ -3,3 +3,9 @@
 /Project Logs for MCU/*
 /Project Outputs for MCU/*
 /WBDesign3_AltiumDesigner/*
+/_Previews/*
+
+*.PDF
+*.OutJob
+*.Dat
+*.PrjPCBStructure
