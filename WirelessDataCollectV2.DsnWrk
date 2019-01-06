@@ -1,8 +1,0 @@
-[ProjectGroup]
-Version=1.0
-[Project1]
-ProjectPath=Analog.PrjPCB
-[Project2]
-ProjectPath=MCU.PrjPCB
-[Project3]
-ProjectPath=C:\MyProgram\tools\Ultra Librarian\Library\Exported\Altium\2018-12-19_16-36-49\UL_Import.PrjScr

@@ -1,0 +1,40 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MCU.PrjPCB|ReportField=ProjectFullPath~F:\Projects\汽车数据采集和分析\资料\PCB\DaqBoard\MCU.PrjPCB|ReportField=Title~Bill of Materials For Project [MCU.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~106|ReportField=ReportTime~19:20:17|ReportField=ReportDate~2018/12/26|ReportField=ReportDateTime~2018/12/26 19:20:17|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/12/26|ReportField=CurrentTime~19:20:04|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Projects\汽车数据采集和分析\资料\PCB\DaqBoard\rock.SchDoc|ReportField=DocumentName~rock.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/12/26|ReportField=Organization~|ReportField=ProjectName~MCU.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MCU.PrjPCB|ReportField=DataSourceFullPath~F:\Projects\汽车数据采集和分析\资料\PCB\DaqBoard\MCU.PrjPCB
+CAN2||5V/DGND, CAN1, CAN2, DGND, DIO, USART|P2-3.81mm|6
+0.1uF||C1, C3, C4, C5, C7, C8, C9, C17, C18, C20, C27, C28, C35|0603|13
+220uF/35V||C2, C19, C21|C-RB-S8|3
+2.2uF||C6, C37, C38|0603|3
+Cap Pol3|Polarized Capacitor (Surface Mount)|C10, C11|CAP-3216|2
+47nF||C12, C13, C14, C15|0603|4
+6pF||C29, C30|0603|2
+10pF||C31, C32|0603|2
+104||C33, C34, C36, C39|0603|4
+SS32A|SS32A|D1, D2|DO-214AC|2
+LRB551V-30T1G|LRB551V-30T1G|D9, D10|SOD-323|2
+SMBJ 6.5CA|TVS,SMBJ 6.5CA,600W SMD Transient Voltage Suppressor Diodes,|D11, D12|DO-214AA|2
+SMDJ 5CA|SMDJ5.0CA|D13|SMC|1
+LED1|Typical RED, GREEN, YELLOW, AMBER GaAs LED|DS1|0603|1
+LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|DS2|0603|1
+BLM15EG121SN1D|FILTER CHIP 120 OHM 1.5A 0402|FB2|0603|1
+SWPA6045S680MT|电感|L1, L2|6045|2
+Header 4X2|接插件|P1, P3, P4, P5|HDR4X2_A_Tiepian|4
+SW|XH插座 1*5P 2.54mm|P2|HDR5X1_SW _Tiepian|1
+LED3|Typical RED, GREEN, YELLOW, AMBER GaAs LED|Power|0603|1
+Header 2X2A|接插件|PW|HDR2X2_A|1
+MMBT9013H|MMBT9013H|Q1, Q2|SOT-23|2
+4.7K||R1, R2, R3, R4|0603|4
+10k|[NoValue], Res,1K,0603, Res,1K,0603, 贴片电阻, [NoValue], [NoValue], [NoValue], [NoValue]|R5, R18, R19, R35, R37, R38, R43, R48|0603|8
+0R|Res,1K,0603|R6, R7|0603|2
+120R||R8, R9, R21, R22, R23, R24, R25, R26|0603|8
+1K|Res,1K,0603, Res,1K,0603, Res,1K,0603, Res,1K,0603, Res,1K,0603, Res,1K,0603, Res,1K,0603, Res,1K,0603, [NoValue], [NoValue], [NoValue]|R10, R11, R12, R13, R14, R15, R16, R17, R33, R40, R42|0603|11
+12K||R20|0603|1
+10M||R44|0603|1
+10R||R45|0603|1
+SW-PB|微动开关|RESET|SW_PB2_A2|1
+STM|STM32F405RG_64Pins|STM32F405RG|LQFP-64|1
+RS9113-79||U1|RS9113-79|1
+TJA1051T/3||U2, U3|SOP-8|2
+TPS26600PWPT|TPS26600PWPT|U4|PWP0016H_N|1
+XL1509-3.3E1|XL1509-3.3E1|U5|SOIC8_N|1
+XL1509-5.0E1|XL1509-5.0E1|U6|SOIC8_N|1
+MC306|Q13MC3062000600|Y1|XTAL_8x3.8|1
+ABM3B-8.000MHZ-10-1-U-T|ABM3B-8.000MHZ/10pF|Y2|XTAL_5x3.2|1

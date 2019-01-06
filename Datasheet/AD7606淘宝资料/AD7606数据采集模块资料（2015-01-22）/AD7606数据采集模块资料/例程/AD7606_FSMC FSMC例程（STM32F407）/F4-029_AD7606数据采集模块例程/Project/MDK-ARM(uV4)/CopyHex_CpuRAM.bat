@@ -1,1 +1,0 @@
-copy CpuRAM\Obj\output.hex ..\output(ram).hex
